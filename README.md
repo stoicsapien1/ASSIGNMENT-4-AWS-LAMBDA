@@ -1,3 +1,10 @@
+# Assignment
+
+<img width="1915" height="1007" alt="image" src="https://github.com/user-attachments/assets/65da89a6-b9af-4422-bf24-9ec372c825c9" />
+<img width="1490" height="208" alt="image" src="https://github.com/user-attachments/assets/4dba2d2e-3b63-439d-8cbf-1337c19b93d1" />
+<img width="1568" height="232" alt="image" src="https://github.com/user-attachments/assets/c1803557-b432-4942-9b88-c7bb2aac8a3c" />
+
+
 
 
 # AWS Lambda with Google Gemini API
